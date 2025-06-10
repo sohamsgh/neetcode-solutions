@@ -1,0 +1,4 @@
+# ignore exeutables
+*.out 
+#ignore object files
+*.o
